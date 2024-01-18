@@ -1,0 +1,5 @@
+problem 14.
+
+DELETE * 
+FROM LOGS
+WHERE LOGS > 1 YEAR
